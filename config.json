@@ -2,19 +2,19 @@
     "expiresInSeconds": 3600,
     "data": {
         "sponsors": {
-            "path": "https://github.com/OpenSettings/configs/blob/master/data/sponsors.json",
+            "path": "https://raw.githubusercontent.com/OpenSettings/configs/refs/heads/debug/data/sponsors.json",
             "expiresInSeconds": 3600
         },
         "links": {
-            "path": "https://github.com/OpenSettings/configs/blob/master/data/links.json",
+            "path": "https://raw.githubusercontent.com/OpenSettings/configs/refs/heads/debug/data/links.json",
             "expiresInSeconds": 3600
         },
         "notifications": {
-            "path": "https://github.com/OpenSettings/configs/blob/master/data/notifications.json",
+            "path": "https://raw.githubusercontent.com/OpenSettings/configs/refs/heads/debug/data/notifications.json",
             "expiresInSeconds": 3600
         },
         "others": {
-            "path": "https://github.com/OpenSettings/configs/blob/master/data/others.json",
+            "path": "https://raw.githubusercontent.com/OpenSettings/configs/refs/heads/debug/data/others.json",
             "expiresInSeconds": 3600
         }
     }
