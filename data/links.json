@@ -8,8 +8,8 @@
         "isActive": true
     },
     "docs": {
-        "url": "",
-        "isActive": false
+        "url": "https://docs.opensettings.net",
+        "isActive": true
     },
     "help": {
         "url": "",
