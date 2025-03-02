@@ -1,0 +1,26 @@
+{
+    "bugReport": {
+        "url": "https://github.com/OpenSettings/open-settings/issues/new",
+        "isActive": true
+    },
+    "releaseNotes": {
+        "url": "https://github.com/OpenSettings/open-settings/releases/tag/v%(Version)",
+        "isActive": true
+    },
+    "docs": {
+        "url": "https://docs.opensettings.net",
+        "isActive": true
+    },
+    "help": {
+        "url": "",
+        "isActive": false
+    },
+    "feedback": {
+        "url": "",
+        "isActive": false
+    },
+    "license": {
+        "url": "https://opensettings.net#pricing",
+        "isActive": true
+    }
+}
