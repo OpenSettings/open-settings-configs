@@ -1,13 +1,1 @@
-[
-    {
-        "id": "2fa85f61-5625-4561-b4fc-2c963f66aba4",
-        "title": "New Version Available",
-        "message": "A new version (1.0.3) of OpenSettings is available! <a class=\"text-info\" href=\"https://github.com/OpenSettings/open-settings\" target=\"_blank\">See what's new</a>.",
-        "type": 4,
-        "metadata": {
-            "version": "1.0.3"
-        },
-        "createdOn": "2025-01-03T23:00:00.0000000",
-        "createdBy": "OpenSettings"
-    }
-]
+[]

@@ -8,7 +8,7 @@
         "isActive": true
     },
     "docs": {
-        "url": "",
+        "url": "https://docs.opensettings.net",
         "isActive": false
     },
     "help": {
@@ -20,7 +20,7 @@
         "isActive": false
     },
     "license": {
-        "url": "",
+        "url": "https://opensettings.net/license",
         "isActive": false
     }
 }

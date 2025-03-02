@@ -15,3 +15,5 @@ __pycache__/
 # Editor/IDE backup files
 *.swp
 *.swo
+
+.vs
