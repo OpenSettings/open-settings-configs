@@ -4,7 +4,7 @@
         "isActive": true
     },
     "releaseNotes": {
-        "url": "https://github.com/OpenSettings/open-settings/releases/tag/v%(Version)",
+        "url": "https://docs.opensettings.net/v%(MajorVersion)/release-notes/%(Version)",
         "isActive": true
     },
     "docs": {
