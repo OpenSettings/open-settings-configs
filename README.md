@@ -8,7 +8,7 @@ This repository contains dynamic configurations used for system notifications, l
 
 ## 💡 License  
 
-OpenSettings is licensed under the [OpenSettings License](https://opensettings.net/license).
+Licensed under the [OpenSettings License](https://opensettings.net/license).
 
 ## 🤝 Contributing
 
