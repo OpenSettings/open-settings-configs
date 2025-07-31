@@ -1,4 +1,4 @@
-# <img src="logo/open-settings-logo.png" alt="Logo" width="24"/> OpenSettings Configs
+# <img src="assets/open-settings-icon-small-compressed.png" alt="icon" width="24"/> OpenSettings Configs
 
 Contains the latest configuration data for use in [OpenSettings](https://github.com/OpenSettings/open-settings)
 
